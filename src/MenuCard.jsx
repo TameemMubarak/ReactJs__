@@ -2,6 +2,8 @@ import RecipeCard from "./RecipeCard";
 
 export default function MenuCard(){
     return(
+        // this the skeleton structure of the menu template
+        
       <div className="menu-card">
         <RecipeCard item_name="Biryani" item_time="30 Min" item_region="Deccan" />
         <RecipeCard item_name="Masala Dosa" item_time="10 Min" item_region="Deccan" />
