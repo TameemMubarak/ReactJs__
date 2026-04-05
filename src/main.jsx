@@ -10,6 +10,7 @@ createRoot(document.getElementById('root')).render(
     <header className='header' >
         <h1>The Delicious Resturant</h1>
     </header>
+    {/* here the menu card is rendered  */}
       <MenuCard/>
   </StrictMode>,
 )
