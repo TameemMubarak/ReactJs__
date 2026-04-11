@@ -2,7 +2,7 @@ import RecipeCard from "./RecipeCard";
 
 export default function MenuCard(){
     return(
-        // this the skeleton structure
+        // this 
         
       <div className="menu-card">
         <RecipeCard item_name="Biryani" item_time="30 Min" item_region="Deccan" />
