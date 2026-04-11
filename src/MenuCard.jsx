@@ -1,8 +1,7 @@
 import RecipeCard from "./RecipeCard";
 
 export default function MenuCard(){
-    return(
-        // this 
+    return( 
         
       <div className="menu-card">
         <RecipeCard item_name="Biryani" item_time="30 Min" item_region="Deccan" />
